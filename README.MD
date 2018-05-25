@@ -17,3 +17,5 @@ Generate Windows packages.
 electron-packager . demoApp --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName="demoApp"
 
 https://www.christianengvall.se/electron-packager-tutorial/
+
+https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/
