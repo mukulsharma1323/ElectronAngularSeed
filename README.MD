@@ -6,7 +6,7 @@ TO USE
 
 Replace dist folder to your Angular project's dist folder.
 
-Update src/index.html <base href="./">
+Update src/index.html "<base href="./">"
 
 (you can generate dist folder by using command npm run build prod )
 
